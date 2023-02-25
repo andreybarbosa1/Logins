@@ -18,7 +18,7 @@ body {
   display: grid;
   place-items: center;
   margin: 0;
-  background-image: url("./fundo.svg");
+  background-image: url("fundo.svg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: sans-serif;
